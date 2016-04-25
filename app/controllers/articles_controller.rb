@@ -1,6 +1,6 @@
 class ArticlesController < ApplicationController
 	def new
-		@the_truth = true;
+		@the_truth = true
 	end
 
 	def create
